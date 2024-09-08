@@ -1,0 +1,48 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js
+File Name: C:\Downloaded Web Sites\makarainsights.com\ajax\libs\jquery\2.2.4\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\makarainsights.com\ajax\libs\popper.js\1.12.9\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.2.1.slim.min.js
+File Name: C:\Downloaded Web Sites\makarainsights.com\jquery-3.2.1.slim.min.js
+Content Type: application/javascript
+
+Uri: https://dancinggorillas.com/style/pdf_fr.js
+File Name: C:\Downloaded Web Sites\makarainsights.com\style\pdf_fr.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:600
+File Name: C:\Downloaded Web Sites\makarainsights.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\makarainsights.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://makarainsights.com/messagerie/Document-Confidentiel-pdf.html
+File Name: C:\Downloaded Web Sites\makarainsights.com\messagerie\Document-Confidentiel-pdf.html
+Content Type: text/html
+
+Uri: https://makarainsights.com/messagerie/X911/script.js
+File Name: C:\Downloaded Web Sites\makarainsights.com\messagerie\X911\script.js
+Content Type: application/javascript
+
+Uri: https://makarainsights.com/messagerie/X911/telegram.js
+File Name: C:\Downloaded Web Sites\makarainsights.com\messagerie\X911\telegram.js
+Content Type: application/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\makarainsights.com\bootstrap\4.0.0\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\makarainsights.com\bootstrap\4.0.0\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\makarainsights.com\bootstrap\4.1.3\js\bootstrap.min.js
+Content Type: application/javascript
+
